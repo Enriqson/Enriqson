@@ -17,7 +17,8 @@
 💻 I’m a **Data Engineer** with a bachelor's degree in computer engineering. </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
- <b><i>Passionate about making things quicker, smoother and tidier. I'm also an avid Jupyter notebook user.
+ <b><i>Passionate about making things quicker, smoother and tidier.<br/>
+ I'm also an avid Jupyter notebook user.
     
 <br/>
 <hr />
